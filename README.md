@@ -20,3 +20,13 @@ A + B + B + 2(d)
 DAP(n) = A + Sum(Ap(1) + AP(2) + ..... + AP(n))
 
 DAP (3) = DAP(2) + AP (2)
+
+# Visual
+
+## 4 stages
+
+## Clock
+
+## Grid -> 3x3 , 2x2, 3x2, 2x3, 1x1
+
+Shapes ()-<edges, color, orientation, >
